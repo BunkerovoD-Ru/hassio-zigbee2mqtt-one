@@ -4,7 +4,7 @@
   "slug": "Z2M-One",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
-    "2.0.0-1"
+    "2.0.0-11"
   ],
   "uart": true,
   "udev": true,
